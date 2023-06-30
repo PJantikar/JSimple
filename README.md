@@ -1,2 +1,2 @@
 # JSimple
-Simple Apps using Javascript, HTML and CSS.
+Simple Quizz App using Javascript, HTML and CSS.
