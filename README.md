@@ -1,2 +1,2 @@
 # JSimple
-Simple Apps
+Simple Apps using Javascript, HTML and CSS.
